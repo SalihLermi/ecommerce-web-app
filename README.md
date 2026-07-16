@@ -15,23 +15,28 @@ The project was developed to strengthen practical full-stack web development ski
 
 ## ✨ Features
 
+### Customer Features
+
 - User registration and authentication
 - User profile management
-- Product listing with pagination
-- Product search functionality
+- Product listing
 - Category-based product filtering
+- Product search functionality
 - Featured products on the homepage
 - Product detail page
-- Product reviews
 - Shopping cart management
+- Product reviews
 - Order management
 - Contact form
+
+### Admin Features
+
 - Admin dashboard
-- Product management (Add / Edit)
+- Product management
 - Category management
 - User management
-- Order status management
 - Review management
+- Order management
 
 ## 🛠️ Technologies
 
