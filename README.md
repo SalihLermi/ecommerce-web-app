@@ -11,7 +11,7 @@ The system enables users to register, log in, browse products by category, searc
 
 An administrative panel is included to manage products, categories, users, reviews, and customer orders through a centralized interface.
 
-The project was developed to strengthen practical full-stack web development skills by implementing the core functionalities of a modern e-commerce platform.
+The project was developed to strengthen practical full-stack web development skills by implementing the core features of a modern e-commerce platform using PHP and MySQL. It demonstrates user authentication, product management, shopping cart functionality, and administrative operations within a complete web application.
 
 ## ✨ Features
 
@@ -33,16 +33,16 @@ The project was developed to strengthen practical full-stack web development ski
 - Order status management
 - Review management
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies
 
-| Teknoloji | Açıklama |
-|------------|----------|
-| PHP | Sunucu tarafı programlama |
-| MySQL | Veritabanı yönetimi |
-| HTML5 | Sayfa yapısı |
-| CSS3 | Arayüz tasarımı |
+| Technology | Description |
+|------------|-------------|
+| PHP | Server-side programming |
+| MySQL | Database management |
+| HTML5 | Page structure |
+| CSS3 | User interface design |
 
-## 🚀 Kurulum
+## 🚀 Installation
 
 1. Repoyu bilgisayarınıza indirin.
 
