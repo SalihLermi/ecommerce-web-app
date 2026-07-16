@@ -56,11 +56,11 @@ The project was developed to strengthen practical full-stack web development ski
 
 6. Tarayıcıdan projeyi çalıştırın.
 
-7. ## 👨‍💻 Developer
+## 👨‍💻 Developer
 
 Developed by **Salih Lermi**
 
-GitHub: https://github.com/salih61lermi
+GitHub: https://github.com/SalihLermi
 
 ## 📂 Project Structure
 
